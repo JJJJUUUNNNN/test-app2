@@ -1,0 +1,13 @@
+
+.image.data-v-e8f2771e{
+  width: 200px; 
+  height: 200px; 
+  background-color: #F5F7FC;
+}
+.empty-box.data-v-e8f2771e{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 64px;
+}

@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/publish/index",
+    "pages/toDo/index",
+    "pages/toDo/details/finish/index",
+    "pages/toDo/details/pending/index"
+  ],
+  "window": {
+    "backgroundColor": "#F8F8F8",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app"
+  },
+  "usingComponents": {}
+}

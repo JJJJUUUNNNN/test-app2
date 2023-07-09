@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTitleText": "已处理",
+  "usingComponents": {
+    "to-do-card": "../../component/toDoCard/index",
+    "uni-card": "../../../../uni_modules/uni-card/components/uni-card/uni-card",
+    "uni-icons": "../../../../uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uni-tag": "../../../../uni_modules/uni-tag/components/uni-tag/uni-tag"
+  }
+}

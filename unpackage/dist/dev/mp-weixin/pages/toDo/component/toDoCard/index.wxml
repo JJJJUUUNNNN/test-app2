@@ -1,0 +1,1 @@
+<uni-card wx:for="{{a}}" wx:for-item="item" wx:key="e" u-s="{{['d']}}" class="all" u-i="{{item.f}}" bind:__l="__l" u-p="{{b}}"><view class="title item">{{item.a}}</view><view class="time item">{{item.b}}</view><view class="info item">{{item.c}}</view><view class="person item">指派处理人：</view><view class="name item">{{item.d}}</view></uni-card>

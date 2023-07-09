@@ -1,0 +1,42 @@
+{
+    "globalStyle": {
+        "app-plus": {
+            "background": "#efeff4"
+        },
+        "backgroundColor": "#F8F8F8",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "uni-app"
+    },
+    "pages": [
+        {
+            "path": "pages/publish/index",
+            "style": {
+                "navigationBarBackgroundColor": "#fff",
+                "navigationBarTitleText": "发布公告",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/toDo/index",
+            "style": {
+                "navigationBarBackgroundColor": "#fff",
+                "navigationBarTitleText": "待办事项"
+            }
+        },
+        {
+            "path": "pages/toDo/details/finish/index",
+            "style": {
+                "navigationBarBackgroundColor": "#fff",
+                "navigationBarTitleText": "已处理"
+            }
+        },
+        {
+            "path": "pages/toDo/details/pending/index",
+            "style": {
+                "navigationBarBackgroundColor": "#fff",
+                "navigationBarTitleText": "待处理"
+            }
+        }
+    ]
+}

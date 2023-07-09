@@ -1,0 +1,35 @@
+
+.container {
+		padding: 20px;
+		font-size: 14px;
+		line-height: 24px;
+}
+.all .item{
+		padding: 4px 0;
+}
+.title{
+		font-size: 1rem;
+		font-weight: 500;
+		color:#293452;
+		line-height: 1.5rem;
+}
+.time{
+		font-size: 0.75rem;
+		color:#7985A4;
+		line-height: 1.25rem;
+}
+.person{
+		font-size: 0.88rem;
+		color:#293452;
+		line-height: 1.38rem;
+}
+.info{
+		font-size: 0.88rem;
+		color:#4C587A;
+		line-height: 1.38rem;
+}
+.name{
+		color:#4C587A;
+		font-size: 0.88rem;
+		line-height: 1.38rem;
+}

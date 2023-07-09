@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTitleText": "待办事项",
+  "usingComponents": {
+    "to-do-card": "../component/toDoCard/index",
+    "empty": "../component/empty/index"
+  }
+}
